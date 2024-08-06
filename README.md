@@ -17,7 +17,7 @@ You can install the required Python packages using pip:
 ```sh
 pip install networkx matplotlib
 ```
-##Files
+## Files
 graph_traversal.py: The main script containing the BFS, DFS, graph generation, and visualization functions.
 Usage
 Clone the repository (if hosted on a version control system like GitHub):
@@ -30,7 +30,7 @@ cd graph-traversal-visualization
 ```sh
 python graph_traversal.py
 ```
-##Functions
+## Functions
 bfs(graph, start_node)
 Performs Breadth-First Search on the graph starting from start_node.
 
