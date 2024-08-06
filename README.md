@@ -16,21 +16,21 @@ You can install the required Python packages using pip:
 
 ```sh
 pip install networkx matplotlib
-Files
+```
+##Files
 graph_traversal.py: The main script containing the BFS, DFS, graph generation, and visualization functions.
 Usage
 Clone the repository (if hosted on a version control system like GitHub):
 
-sh
-Copy code
+```sh
 git clone https://github.com/yourusername/graph-traversal-visualization.git
 cd graph-traversal-visualization
-Run the script:
+```
 
-sh
-Copy code
+```sh
 python graph_traversal.py
-Functions
+```
+##Functions
 bfs(graph, start_node)
 Performs Breadth-First Search on the graph starting from start_node.
 
@@ -71,12 +71,3 @@ Returns:
 G: A randomly generated connected graph.
 Example Output
 When you run the script, it generates a random graph and visualizes the BFS and DFS traversals. The traversal order is displayed as an array, updating in real-time as nodes are visited.
-
- <!-- Add an example image here if available -->
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-NetworkX
-Matplotlib
