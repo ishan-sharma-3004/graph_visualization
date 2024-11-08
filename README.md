@@ -23,7 +23,7 @@ Usage
 Clone the repository (if hosted on a version control system like GitHub):
 
 ```sh
-git clone https://github.com/yourusername/graph-traversal-visualization.git
+git clone https://github.com/ishan-sharma-3004/graph-traversal-visualization.git
 cd graph-traversal-visualization
 ```
 
